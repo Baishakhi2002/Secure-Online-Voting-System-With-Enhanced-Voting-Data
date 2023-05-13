@@ -1,4 +1,4 @@
-# Secure-Online-Voting-System-With-Enhanced-Voting-Data
+# Secure Online Voting System With Enhanced Voting Data
 
 Elections are conducted all over the place. Visual cryptography includes security in casting a ballot. Visual cryptography is a system of encoding cipher values. In this system, client will be approached to give key1 and key 2 which was generated during registration of voter card.
 
