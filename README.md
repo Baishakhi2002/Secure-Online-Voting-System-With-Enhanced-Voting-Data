@@ -45,7 +45,7 @@
 ![Secure Online Voting - Google Chrome 08-05-2023 10_41_25 PM](https://github.com/Baishakhi2002/Secure-Online-Voting-System-With-Enhanced-Voting-Data/assets/119334667/5653b682-a05e-4de9-af57-b20363a5512a)
 
 
-***We hope you find this project useful and enjoy using it for your encoding and decoding needs!***
+***We hope you find this project useful!!!***
 
 
 
